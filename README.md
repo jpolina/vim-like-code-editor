@@ -1,6 +1,6 @@
 # vim-like_code_editor
 
-Disclaimer: Code is not public but can be provided upon request.
+Disclaimer: Code is not public (for academic integrity purposes) but can be provided upon request.
 
 # CS246E - VM Design Document
 
